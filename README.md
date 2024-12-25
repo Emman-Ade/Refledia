@@ -1,1 +1,1 @@
-# Refledia
+# This is a website where users can upload any piece of entertainment they've consumed over the year. It will show when they started it, and when they finished it. There will also be a rating feature, as well as a comments feature to add there own thoughts. There will be a friend feature, where you can see other's "refledia wall"(that is what we're calling media thread), and they can rate your taste 1-10. Your account can be public or private with friends.
